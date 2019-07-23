@@ -73,8 +73,9 @@ echo
 
 2) git clone https://github.com/Techzindia/admin_penal
 echo -e "${y} cara menggunakan admin finder"
-echo -e "${y} cd admin-finder"
-echo -e "${y} python admin-finder.py"
+echo -e "${y} cd admin_penal"
+echo -e "${y} chmod777 admin_panel_finder.py"
+echo -e "${y} python2 admin_panel_finder.py"
 
 
 
