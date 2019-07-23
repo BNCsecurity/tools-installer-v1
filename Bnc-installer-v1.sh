@@ -54,7 +54,7 @@ echo -e $r"5.  Tools-X${endc}";
 echo -e "============================" | lolcat
 echo -e $r "6. Exit${endc}";
 echo ""
-echo -e "╭>MC" |lolcat
+echo -e "╭>BNC" |lolcat
 read -p "╰─#" pil;
 
 # Nmap
@@ -71,7 +71,7 @@ echo
 # admin-finder
 
 2) git clone  
-https://github.com/the-c0d3r/admin-finder.git
+git clone https://github.com/Techzindia/admin_pena
 echo -e "${y} cara menggunakan admin finder"
 echo -e "${y} cd admin-finder"
 echo -e "${y} python admin-finder.py"
