@@ -71,7 +71,7 @@ echo
 # admin-finder
 
 
-2) git clone https://github.com/Techzindia/admin_pena
+2) git clone https://github.com/Techzindia/admin_penal
 echo -e "${y} cara menggunakan admin finder"
 echo -e "${y} cd admin-finder"
 echo -e "${y} python admin-finder.py"
