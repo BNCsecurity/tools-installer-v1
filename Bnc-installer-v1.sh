@@ -44,7 +44,7 @@ do
 echo ""
 echo -e $b "1.  Nmap${enda}";
 echo -e "============================" | lolcat
-echo -e $r "2.  Admin-finder${endc}";
+echo -e $r "2.  Admin-finder${enda}";
 echo -e "============================" | lolcat
 echo -e $g "3.  RED_HAWK${endc}";
 echo -e "============================" | lolcat
