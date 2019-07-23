@@ -75,11 +75,11 @@ echo
 echo -e "${y} cara menggunakan admin finder"
 echo -e "${y} cd admin-finder"
 echo -e "${y} python admin-finder.py"
-cd 
-/data/data/com.termux/files/home/admin-finder/
-python2 
-/data/data/com.termux/files/home/admin-finder/admin-finder.py
-echo
+
+
+
+
+
 
 ;;
 
